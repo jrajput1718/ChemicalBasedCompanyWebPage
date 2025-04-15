@@ -3,9 +3,9 @@ my first evaluation project
 
 live links please visit
  
-https://codepur.github.io/evaluation/
+ (https://github.com/jrajput1718/ChemicalBasedCompanyWebPage.git)
 
-<h1 align="center">Hi 👋, I'm Neeraj Verma</h1>
+<h1 align="center">Hi 👋, I'm Jyoti Rajput</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on [payalgruop](https://codepur.github.io/evaluation/)
